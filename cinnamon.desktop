@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name[en_US]=Cinnamon (Wayland)
+Comment[en_US]=This session logs you into Cinnamon
+Exec=cinnamon-session
+TryExec=cinnamon-session
+Icon=
+Type=Application
+DesktopNames=Cinnamon
+Keywords[en_GB]=launch;Cinnamon;desktop;session;
+Keywords=launch;Cinnamon;desktop;session;
