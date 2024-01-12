@@ -6,4 +6,6 @@ The script will use apt to install all or most of the support files needed to co
 
 If you are feeling lazy or brave, you can just download my debs. These debs work fine for me, I make no promises that they will work for you. Personally, I suggest building the packages yourself, I am not a package maintainer, I am just some guy on the internet with too much time on his hands.
 
+I did this on a lark because I like Cinnamon, I wanted to try out the Wayland support, but I figured it was going to be months before it hit the Sid repo and may not make it into stable for at least a year. Once Cinnamon 6 makes it into Sid, this will become obsolete.
+
 Disclaimer: This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a paticular purpose and nonifringment. In no event shall the author or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
